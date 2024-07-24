@@ -664,6 +664,16 @@ iframe{
   margin: 0 auto;
 }
 
+.card-bg{
+  background-image: url("../public/watercolour_bg.png");
+  height: 100%;
+  width: 100%;
+}
+
+.card-image img{
+  max-height: 100%;
+}
+
 @media (min-width: 768px) {
   .md\:mt-0 {
     margin-top: 0px;

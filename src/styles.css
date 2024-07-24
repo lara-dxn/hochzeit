@@ -71,3 +71,13 @@ body, html {
     max-width: 100%;
     margin: 0 auto;
   }
+
+  .card-bg{
+    background-image: url("../public/watercolour_bg.png");
+    height: 100%;
+    width: 100%;
+  }
+
+  .card-image img{
+    max-height: 100%;
+  }
