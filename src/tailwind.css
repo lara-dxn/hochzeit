@@ -559,16 +559,12 @@ video {
   margin-right: auto;
 }
 
-.mb-4 {
-  margin-bottom: 1rem;
-}
-
 .mb-2 {
   margin-bottom: 0.5rem;
 }
 
-.mt-2 {
-  margin-top: 0.5rem;
+.mb-4 {
+  margin-bottom: 1rem;
 }
 
 .mt-4 {
@@ -665,6 +661,7 @@ body{
 
 iframe{
   max-width: 100%;
+  margin: 0 auto;
 }
 
 @media (min-width: 768px) {
